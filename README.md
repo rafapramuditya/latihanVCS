@@ -6,7 +6,7 @@
 ```
 ## git --Version
 ```
-![Gambar1](gambar/git1.png)
+![Gambar1](gambar/git.png)
 #### - Pada saat pertama kali menggunakan git, perlu dilakukan Konfigurasi user.name dan user.email
 #### - konfigurasi ini bisa dilakukan untuk global repository atau individual revository
 #### - Apabila belum di lakukan Konfigurasi, akan mengakibatkan terjadi kegagalan saat menjalankan perintah global git commit
