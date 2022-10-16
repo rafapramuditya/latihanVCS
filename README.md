@@ -130,7 +130,7 @@ $ git push -u origin master
 $ git clone [https://github.com/rafapramuditya/labpy1.git]
 
 
-![Gambar1](gambar/git19.png)
+![Gambar1](gambar/git9.png)
 
 ## Kegunaan file README.md
 
